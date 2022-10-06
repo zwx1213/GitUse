@@ -76,8 +76,6 @@ git remote add [shortname] [url]
 
     
 
-#### 12、git branch
+##### 12、git push时需要Personal Access tokens
 
-课程网站会有笔记
-
-下次课9A314
+        头像—>setting—>Developer settings—>Personal Access tokens
